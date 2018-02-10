@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-server",
+  "version": "1.0.0",
+  "description": "blockchain implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thierno thiam",
+  "license": "MIT",
+  "dependencies": {
+    "chilkat_node8_macosx": "^9.50.71",
+    "express": "^4.16.2",
+    "sha256": "^0.2.0"
+  }
+}
